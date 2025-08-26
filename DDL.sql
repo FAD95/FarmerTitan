@@ -1,8 +1,3 @@
--- ============================================================================
--- Farm Equipment Maintenance Scheduling DB (PostgreSQL 15 / Supabase)
--- Final schema with equipment_component, automation triggers, and due_soon
--- ============================================================================
-
 BEGIN;
 
 -- =========================
